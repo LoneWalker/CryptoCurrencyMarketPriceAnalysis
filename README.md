@@ -1,4 +1,4 @@
-# CryptoCurrencyMarketPriceAnalysis
+# Crypto-Currency Market Price Analysis
 Our aim for this project is to process the data from social media (Twitter), and show how it affects the crypto-currency market. Our primary goal for this project is to find out:
 
 Is there a correlation between social media data and cryptocurrency price fluctuation?
